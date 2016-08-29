@@ -1,0 +1,25 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "Projeto de uma simples Api RESTFul",
+  "main": "index.js",
+  "keywords": [
+    "api",
+    "express",
+    "babel"
+  ],
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Claudenir Freitas <claudenirfreitas.cf@gmail.com>",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0",
+    "consign": "^0.1.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-register": "^6.11.6"
+  }
+}
